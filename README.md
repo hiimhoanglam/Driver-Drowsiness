@@ -19,5 +19,6 @@ If 5 consecutive frames classified as Drowsy => Warning display + Play sound ala
 
 # Quantitive Results
 ![image](https://github.com/user-attachments/assets/2d78641b-1eeb-4643-96f4-8e4def15ccfa)
+![image](https://github.com/user-attachments/assets/e5e40701-6a08-44ac-9dc8-3c01407ffc39)
 
 
